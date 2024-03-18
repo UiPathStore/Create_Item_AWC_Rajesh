@@ -1,0 +1,59 @@
+{
+  "name": "TestAutomationProject_Create_ItemNew",
+  "projectId": "e6ab9264-e276-4cb7-a1cf-6020d703da11",
+  "description": "Test Automation Project",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.System.Activities": "[24.2.0-preview]",
+    "UiPath.Testing.Activities": "[24.2.0-preview]",
+    "UiPath.UIAutomation.Activities": "[24.2.0-preview]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "24.2.0.0",
+  "projectVersion": "1.0.163513467",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "workflowSerialization": "DataContract",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Tests",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "0b8c3742-ea1e-483d-93df-b1b2a8c06578",
+        "testCaseType": "TestCase",
+        "fileName": "TC_Create_Item_Testcase_New.xaml"
+      }
+    ],
+    "saveToCloud": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Windows"
+}
